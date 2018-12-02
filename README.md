@@ -5,3 +5,6 @@ It uses Accord.NET framework for performing machine learning & statistics operat
 
 # Installing
 To install AccordiLytics simply run the attached setup.exe file and follow the instructions.
+
+# Sample Project
+Let's follow the step by step guide to create a machine learning supervised classification model in AccordiLytics. 
