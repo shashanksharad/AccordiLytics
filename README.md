@@ -9,7 +9,7 @@ To install AccordiLytics simply run the attached setup.exe file and follow the i
 # Sample Project
 Let's follow the step by step guide to create a machine learning supervised classification model in AccordiLytics.
 
-![alt text](https://github.com/shashanksharad/AccordiLytics/blob/master/UI.PNG | width=50)
+![alt text](https://github.com/shashanksharad/AccordiLytics/blob/master/UI.PNG)
 
 ![alt text](https://github.com/shashanksharad/AccordiLytics/blob/master/DescStats.PNG)
 
