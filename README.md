@@ -8,12 +8,18 @@ To install AccordiLytics simply run the attached setup.exe file and follow the i
 
 # Sample Project
 
-Let's follow the step by step guide to create a machine learning supervised classification model in AccordiLytics. The data used here is the famous breast cancer diagonistic dataset available at this [UCI ML Repository](http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29). The input data is required to be imported in csv format for each of the training and the test sets. This program requires column headers and class column should be the last column. The import buttons followed by Load Data button create the essential data structures to be used for further operations.
+Let's follow the step by step guide to create a machine learning supervised classification model in AccordiLytics. The data used here is the famous breast cancer diagonistic dataset available at this [UCI ML Repository](http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29). 
+
+# User Interface
+The input data is required to be imported in csv format for each of the training and the test sets. Each feature column should have corresponding header and class data should be the last column. The classes should be numeric and mandatorily starting from 0 and subsequently increasing by 1. The import buttons followed by Load Data button create the essential data structures to be used for further operations.
 
 ![alt text](https://github.com/shashanksharad/AccordiLytics/blob/master/UI.PNG)
 
+# Descriptive Statistics
+Once the training and test data are loaded, user can generate the descriptive statistics comprising of the sample count, mean, standard deviations, minimum and maximum for each of the features. Additionally the class distribution is also generated to evaluate the cases of class imbalance prior to modeling. The 
 ![alt text](https://github.com/shashanksharad/AccordiLytics/blob/master/DescStats.PNG)
 
+# Feature Crossplots
 ![alt text](https://github.com/shashanksharad/AccordiLytics/blob/master/Xplots.PNG)
 
 ![alt text](https://github.com/shashanksharad/AccordiLytics/blob/master/Correlations.PNG)
