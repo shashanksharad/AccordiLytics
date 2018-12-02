@@ -20,6 +20,7 @@ Once the training and test data are loaded, user can generate the descriptive st
 ![alt text](https://github.com/shashanksharad/AccordiLytics/blob/master/DescStats.PNG)
 
 # Feature Crossplots
+In order to evaluate the presence a good or bad correlation between the input features, it automatically transforms the feature data to their Standard scores and hence have zero mean and unit variance. The features are then cross-plotted taken two at a time. The crossplot points are also colored based on their class. It also gives the histogram distribution of individual features plotted along the diagonal.
 ![alt text](https://github.com/shashanksharad/AccordiLytics/blob/master/Xplots.PNG)
 
 ![alt text](https://github.com/shashanksharad/AccordiLytics/blob/master/Correlations.PNG)
