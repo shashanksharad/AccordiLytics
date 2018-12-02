@@ -44,3 +44,6 @@ Once the software has learned the feature-class relationship in the training dat
 
 # Export Predictions
 Once the training and estimation process is complete, users can also export the test data prediction in csv format
+
+# Contributing
+Users interested in contributing to this project can request the source code at shashank.sharad@gmail.com.
