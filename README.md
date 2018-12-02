@@ -9,6 +9,7 @@ To install AccordiLytics simply run the attached setup.exe file and follow the i
 # Sample Project
 
 Let's follow the step by step guide to create a machine learning supervised classification model in AccordiLytics. The data used here is the famous breast cancer diagonistic dataset available at this [UCI ML Repository](http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29). 
+The same data is already available as train and test sets in this repository.
 
 # User Interface
 The input data is required to be imported in csv format for each of the training and the test sets. Each feature column should have corresponding header and class data should be the last column. The classes should be numeric and mandatorily starting from 0 and subsequently increasing by 1. The import buttons followed by Load Data button create the essential data structures to be used for further operations.
