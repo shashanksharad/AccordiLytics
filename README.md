@@ -4,7 +4,7 @@ A simple windows based software to perform exploratory data analysis, dimensiona
 It uses Accord.NET framework for performing machine learning & statistics operations and derives its name from same.
 
 # Installing
-To install AccordiLytics simply run the attached setup.exe file and follow the instructions.
+To install AccordiLytics simply download and run the Setup.msi file and follow the instructions.
 
 # Sample Project
 
